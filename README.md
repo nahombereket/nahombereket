@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nahombereket
-- 👀 I’m interested in the MERN stack, TypeScript and modifying old gadgets.
+- 👀 I’m interested in the MERN stack, Python, and recently TypeScript.
 - 🌱 I’m currently learning Obsidian Plugin Development.
 <!---
 nahombereket/nahombereket is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
